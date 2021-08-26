@@ -216,8 +216,4 @@ iptables -t nat -I POSTROUTING -o br-lan -j MASQUERADE      #If the interface is
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
 - [Lienol/openwrt](https://github.com/Lienol/openwrt)
 - [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit)
-
-## License
-
-[LICENSE](https://github.com/ophub/op/blob/main/LICENSE) © OPHUB
-
+ 
